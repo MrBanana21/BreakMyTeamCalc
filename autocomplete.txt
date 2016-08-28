@@ -204,7 +204,9 @@
 373          | Salamence         | 
 235          | Smeargle          | 
 
-006-mxb      | Charizard-X-Bulk  |
+003-m-b      | Venusaur-M-Def    |
+006-mx-b     | Charizard-X-Bulk  |
+006-mx-c     | Charizard-X-SD    |
 
 001          | Bulbasaur         | 
 002          | Ivysaur           | 
