@@ -8623,8 +8623,10 @@ Newline
 GSI to:
 227          | Skarmory          | 
 485          | Heatran           | 
+Newline
 SSI to: 
 647          | Keldeo            | 
+Newline
 NSI to:
 323-m        | Camerupt-Mega     | 
 
