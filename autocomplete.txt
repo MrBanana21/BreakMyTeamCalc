@@ -204,9 +204,11 @@
 373          | Salamence         | 
 235          | Smeargle          | 
 
-003-m-b      | Venusaur-M-Def    |
-006-mx-b     | Charizard-X-Bulk  |
-006-mx-c     | Charizard-X-SD    |
+003-m-Def    | Venusaur-M-Def    |
+006-mx-B     | Charizard-X-Bulk  |
+006-mx-SD    | Charizard-X-SD    |
+645-s-o      | Landorus-T-Soft S.| 
+645-s-scarf  | Landorus-T-Scarf  | 
 
 001          | Bulbasaur         | 
 002          | Ivysaur           | 
